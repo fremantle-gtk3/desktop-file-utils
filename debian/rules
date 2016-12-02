@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 %:
-	dh $@ --with autoreconf
+	dh $@ --with autoreconf --with quilt
 
 override_dh_autoreconf:
 	# "aclocal" fails without "m4" directory
