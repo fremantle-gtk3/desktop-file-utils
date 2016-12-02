@@ -1,3 +1,9 @@
+desktop-file-utils (0.22-1+0m7) unstable; urgency=low
+
+  * Maemo 5 01-uri-open.patch
+
+ -- Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>  Fri, 02 Dec 2016 19:58:13 +0200
+
 desktop-file-utils (0.22-1) unstable; urgency=low
 
   * New upstream release [August 2013].
